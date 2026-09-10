@@ -18,9 +18,8 @@ software development, web technologies and 3D programming.
 - Mobile app (private project)
 
 🐈 Currently exploring:
-- C / C++
+- C++
 - Cloud technologies
-- Software architecture
 - Mobile development
 
 🎯 Looking for a Software Development Internship — Winter 2027
@@ -29,7 +28,4 @@ software development, web technologies and 3D programming.
 - [LinkedIn](https://linkedin.com/in/sarah-khodjaoui-90314b228)
 - sarahkhodjaoui5@gmail.com
 -->
-  ## Contribution Activity 🌱
-
-[![Sarah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarah777-k)](https://github.com/Sarah777-k)
   
